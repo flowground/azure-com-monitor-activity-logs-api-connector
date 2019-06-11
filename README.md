@@ -5,7 +5,7 @@
 A generated **flow**ground connector for the MonitorManagementClient API (version 2015-04-01).
 
 Generated from: https://api.apis.guru/v2/specs/azure.com/monitor-activityLogs_API/2015-04-01/swagger.json<br/>
-Generated at: 2019-05-07T17:38:25+03:00
+Generated at: 2019-06-11T18:14:02+03:00
 
 ## API Description
 
